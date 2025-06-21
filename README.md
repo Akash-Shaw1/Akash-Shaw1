@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Shaw</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sutanu01&label=Profile%20views&color=0e75b6&style=flat" alt="Akash-Shaw1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash-Shaw1&label=Profile%20views&color=0e75b6&style=flat" alt="Akash-Shaw1" /> </p>
 
 # 💫 About Me:
 🚀 Learning: DevOps & (GenAI)<br>🤝 Collaborating On: Full-Stack Projects<br>🛠️ Need Help With: DevOps<br>🏆 Ask Me About: Competitive Programming<br>📧 Contact: shawa0439@gmail.com
