@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash-Shaw1&label=Profile%20views&color=0e75b6&style=flat" alt="Akash-Shaw1" /> </p>
 
 # 💫 About Me:
-🚀 Learning: DevOps & (GenAI)<br>🤝 Collaborating On: Full-Stack Projects<br>🛠️ Need Help With: DevOps<br>🏆 Ask Me About: Competitive Programming<br>📧 Contact: akashshaw.dev0@gmail.com
+🚀 Learning: DevOps & (GenAI)<br>🤝 Collaborating On: Full-Stack Projects<br>🛠️ Need Help With: DevOps<br>🏆 Ask Me About: Competitive Programming<br>📧 Contact: akshaw.dev@gmail.com
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-shaw2005/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashshaw.dev0@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-shaw2005/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshaw.dev0@gmail.com)
 
 
 # 💻 Tech Stack:
