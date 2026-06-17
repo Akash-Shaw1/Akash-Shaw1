@@ -6,7 +6,7 @@
 
 ## ✨ About Me
 
-<table><tr><td bgcolor="#0d1117" width="50%">
+<table><tr><td bgcolor="#0d1118" width="50%">
 <br>
 
 &#9678; **Learning** — DevOps & Systems
